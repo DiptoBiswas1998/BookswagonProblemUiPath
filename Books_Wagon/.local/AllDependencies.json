@@ -3527,9 +3527,9 @@
     "restore": {
       "projectUniqueName": "Books_WagonUC1",
       "projectName": "Books_WagonUC1",
-      "projectPath": "E:\\UI Path\\Projects\\Bookswagon3\\Books_WagonUC1\\.local",
+      "projectPath": "E:\\UI Path\\Projects\\Bookswagon3\\BookswagonProblemUiPath\\Books_Wagon\\.local",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\UI Path\\Projects\\Bookswagon3\\Books_WagonUC1\\.local"
+      "outputPath": "E:\\UI Path\\Projects\\Bookswagon3\\BookswagonProblemUiPath\\Books_Wagon\\.local"
     },
     "frameworks": {
       "net461": {
